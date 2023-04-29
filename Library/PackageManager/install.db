@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "d61f9e5c1f21",
+        "mtime": 1678929535191,
+        "size": 12029448,
+        "localPath": "C:\\Users\\abelk\\Music\\Metaversity_Project\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.7.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.examples": {
+      "tarball": {
+        "hash": "42f661a9fb5b",
+        "mtime": 1678929537497,
+        "size": 55195848,
+        "localPath": "C:\\Users\\abelk\\Music\\Metaversity_Project\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.examples-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.extensions": {
+      "tarball": {
+        "hash": "84fe3e76e9b7",
+        "mtime": 1678929532050,
+        "size": 1131406,
+        "localPath": "C:\\Users\\abelk\\Music\\Metaversity_Project\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.extensions-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "f2323a9b7aec",
+        "mtime": 1677254050753,
+        "size": 11691469,
+        "localPath": "C:\\Users\\abelk\\Music\\Metaversity_Project\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "aab256284dc6",
+        "mtime": 1677254053101,
+        "size": 5328617,
+        "localPath": "C:\\Users\\abelk\\Music\\Metaversity_Project\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.testutilities": {
+      "tarball": {
+        "hash": "b1a5df198759",
+        "mtime": 1678929531938,
+        "size": 18590,
+        "localPath": "C:\\Users\\abelk\\Music\\Metaversity_Project\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.testutilities-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.tools": {
+      "tarball": {
+        "hash": "650cce437d92",
+        "mtime": 1678929532208,
+        "size": 2111115,
+        "localPath": "C:\\Users\\abelk\\Music\\Metaversity_Project\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.tools-2.8.3.tgz"
+      }
+    }
+  }
+}
